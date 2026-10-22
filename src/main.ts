@@ -53,7 +53,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     </ul>
   </div>
 
-  <h1>Eda je zmrd</h1>
+  <h2>Eda je zmrd</h2>
 </section>
 
 <div class="ticks"></div>

@@ -11,6 +11,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <img src="${typescriptLogo}" class="framework" alt="TypeScript logo"/>
     <img src="${viteLogo}" class="vite" alt="Vite logo" />
   </div>
+  <p> nice to meet zou! </p>
   <div>
     <h1>Get started</h1>
     <p>Edit <code>src/main.ts</code> and save to test <code>HMR</code></p>
